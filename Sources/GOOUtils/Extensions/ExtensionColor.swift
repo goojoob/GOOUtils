@@ -1,0 +1,10 @@
+import SwiftUI
+
+@available(macOS 10.15, *)
+@available(iOS 13.0, *)
+extension Color {
+    static public let lightShadow = Color(red: 255 / 255, green: 255 / 255, blue: 255 / 255)
+    static public let darkShadow = Color(red: 163 / 255, green: 177 / 255, blue: 198 / 255)
+    static public let background = Color(red: 255 / 255, green: 85 / 255, blue: 127 / 255)
+    static public let neumorphictextColor = Color(red: 132 / 255, green: 132 / 255, blue: 132 / 255)
+}
