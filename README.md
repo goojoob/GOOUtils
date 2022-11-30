@@ -3,9 +3,9 @@ Utilities to develop `iOS` and `macOS` apps
 
 <br/>
 
-##  About GOOUtils
+## 🧰 About GOOUtils
 
-GOOUtils is a Library prepared to use Extensions in `iOS` and `macOS` developments with SwiftUI_
+GOOUtils is a Library prepared to use Extensions in `iOS` and `macOS` developments with SwiftUI
 
 <br/>
 
